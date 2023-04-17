@@ -1,0 +1,20 @@
+{
+    "name": "reizzzor/tools",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "evgenii.plusnin",
+            "email": "reizzzor@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Reizzzor\\Tools\\": "src"
+        }
+    }
+}
